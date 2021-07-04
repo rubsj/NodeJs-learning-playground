@@ -1,0 +1,15 @@
+{
+  "name": "server-app",
+  "version": "1.0.0",
+  "description": "first node app with custom server",
+  "main": "server-app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server-app.js"
+  },
+  "author": "Ruby Jha",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.9"
+  }
+}
